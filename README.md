@@ -2,6 +2,8 @@
 
 ## How to build a Docker container
 
+TEST
+
 1. Go to the target directory e.g `cd php73`
 2. Build and deploy Docker container. Ensure you have the required rights to push into the HDNET organization.
 
